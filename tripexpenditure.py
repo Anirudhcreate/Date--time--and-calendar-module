@@ -22,7 +22,7 @@ def hc():
 def cr():
     days=int(input("Enter the number of days for which you would like to rent a car: "))
     cost1=30*days
-    return days
+    return cost1
 
 def tc():
     
